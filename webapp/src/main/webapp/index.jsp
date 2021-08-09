@@ -2,5 +2,6 @@
 <h1> Devops Project </h1>
 
 09-Aug-2021
-MONDAY
+MONDAY 
+IS FUN DAY
 
